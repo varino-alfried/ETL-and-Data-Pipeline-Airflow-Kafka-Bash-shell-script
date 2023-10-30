@@ -32,7 +32,9 @@
 ![Task 1.11 Unpause the DAG](https://github.com/varino-alfried/ETL-and-Data-Pipeline-Airflow-Kafka-Bash-shell-script-/blob/cb3fdf3267f715b213dbf2b027a693cd89792046/14-Unpause%20the%20DAG.png)
 ## Airflow DAG:
 ![Airflow DAG](https://github.com/varino-alfried/ETL-and-Data-Pipeline-Airflow-Kafka-Bash-shell-script-/blob/cb3fdf3267f715b213dbf2b027a693cd89792046/15-Airflow%20DAG.png)
+
 <hr>
+
 ### Download & Extract Kafka:
 ![Download & Extract Kafka](https://github.com/varino-alfried/ETL-and-Data-Pipeline-Airflow-Kafka-Bash-shell-script-/blob/369f65f462a3abd62a8193fcabc6d66c3813304a/16-download%20and%20extract%20Kafka.png)
 ### Start MySQL Server:
